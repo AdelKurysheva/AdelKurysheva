@@ -24,7 +24,7 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
  
- #### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
+ ### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
   
 
 [UI_Diplom_Kontur](https://github.com/AdelKurysheva/UI_Diplom_Kontur)
